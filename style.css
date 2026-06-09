@@ -1,12 +1,21 @@
 h1{
-    color:crimson;
+    color:red;
     text-align: center;
-    background-color:blue;
+    
 }
 img{
     width:500px;
+    border-radius: 20px;
 }
 body{
     text-align: center;
-    background-color:gray;
+    background-color:green;
+}
+.cartao{
+    background-color: azure;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    border-style: groove;
+
 }
